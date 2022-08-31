@@ -1,0 +1,50 @@
+/* GENERICS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+
+
+/* UTILITY */
+
+.container {
+    width: 978px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+
+header {
+    height: 200px;
+    background-color: aqua;
+    margin-bottom: 50px;
+}
+
+
+/* SECTION FAQ */
+
+
+
+#faq h2 {
+    margin-bottom: 20px;
+    line-height: 32px;
+    font-size: 24px;
+    vertical-align: baseline;
+    font-weight: 500;
+    color: #3C4043;
+}
+
+#faq p {
+    margin-bottom: 30px;
+}
+
+#faq .topic-item {
+    list-style-type: none;
+
+}
